@@ -1,5 +1,4 @@
-# Hi there, I'm [Seu Nome] 👋
-
+# oi sou o gabriel
 🎓 **Aluno do 2º ano do Ensino Médio Técnico em Informática para Internet**  
 🚀 Apaixonado por tecnologia, desenvolvimento web e sempre buscando aprender coisas novas!
 
@@ -39,7 +38,7 @@
 
 ### 📫 Como me encontrar:
 - 💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 **E-mail:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 📧 **E-mail:**biel12341zudjsjehsusjdhsud@gmail.com 
 
 ---
 
